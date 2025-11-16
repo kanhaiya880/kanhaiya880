@@ -22,7 +22,7 @@ I enjoy building scalable applications, clean UI, and working on real-world prob
 
 ## 🔗 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/kanhaiyachaudhari" target="_blank">
+  <a href="https://www.linkedin.com/in/kanhaiya-chaudhari-97bb67213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kanhaiya880" target="_blank">
@@ -39,22 +39,22 @@ I enjoy building scalable applications, clean UI, and working on real-world prob
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
 </p>
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode,idea,pycharm" />
 </p>
 
 ### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
