@@ -44,7 +44,7 @@ I enjoy building scalable applications, clean UI, and working on real-world prob
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=spring,django,react,tailwind,bootstrap" />
 </p>
 
 ### **Tools & Platforms**
